@@ -16,7 +16,7 @@ I'm a passionate developer who enjoys building practical web applications and co
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Ruku-RS)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rukmansubedi@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge)]((https://www.rukmansubedi.com.np/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge)]([(https://www.rukmansubedi.com.np/)](https://www.rukmansubedi.com.np/))
 ---
 
 ## 💻 Tech Stack
